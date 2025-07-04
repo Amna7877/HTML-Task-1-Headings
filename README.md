@@ -27,16 +27,13 @@ Hi! I'm Amna — a front-end development student currently enrolled at **Saylani
 This project is part of my practice journey toward clean, semantic HTML.
 ---
 
-## 🌐 Live Site
+## 🌐 Live Site  
+👉 [View on Netlify](https://html-task-1-headings.netlify.app)
 
-👉 [View on Netlify](https://html-task-3-personal-blog.netlify.app)
-
----
-
-## 📁 GitHub Repository
-
-👉 [View Repository](https://github.com/Amna7877/HTML-Task-3-Personal-Blog)
+## 📁 GitHub Repository  
+👉 [View Repository](https://github.com/Amna7877/HTML-Task-1-Headings)
 
 ---
+
 
 
