@@ -25,5 +25,18 @@ It demonstrates the use of **all six heading tags** in HTML (`<h1>` to `<h6>`), 
 
 Hi! I'm Amna — a front-end development student currently enrolled at **Saylani Mass IT Training**.  
 This project is part of my practice journey toward clean, semantic HTML.
+---
+
+## 🌐 Live Site
+
+👉 [View on Netlify](https://html-task-3-personal-blog.netlify.app)
+
+---
+
+## 📁 GitHub Repository
+
+👉 [View Repository](https://github.com/Amna7877/HTML-Task-3-Personal-Blog)
+
+---
 
 
